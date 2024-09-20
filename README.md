@@ -1,3 +1,5 @@
+[![Open in DevZero](https://assets.devzero.io/open-in-devzero.svg)](https://www.devzero.io/dashboard/recipes/new?repo-url=https://github.com/Nuro-ai/CLARITY)
+
 # CLARITY
 
 The **CL**oud **A**sset **R**epository and **I**nventory **T**ool for **Y**ou (CLARITY) is a tool to extend Google Cloud Platform's [Cloud Asset Inventory](https://cloud.google.com/asset-inventory/docs/overview) (CAI) for better usability and functionality. It consists of two components:
